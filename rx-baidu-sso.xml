@@ -1,0 +1,5 @@
+<prescription xmlns="http://greenify.github.io/schemas/prescription/v1" type="service" class="com.baidu.sapi2.share.ShareService">
+  <intent-filter>
+    <action name="baidu.intent.action.account.SHARE_SERVICE" />
+  </intent-filter>
+</prescription>
